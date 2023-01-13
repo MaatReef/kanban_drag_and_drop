@@ -23,5 +23,4 @@ Mismo concepto puede aplicarse hacia otros proyectos, carritos de compras, juego
 <img width="800" src="src/img/views2.png">
 
 ---
-<a href="https://proyecto-2-kanban.netlify.app/"> Visitar Proyecto </a>
----
+<center> <a href="https://proyecto-2-kanban.netlify.app/"> Visitar Proyecto </a> </center>
