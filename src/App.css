@@ -11,7 +11,7 @@ body{
   color: #E4E4E4;
   line-height: 1.5;
   background-repeat: no-repeat;
-  height: 100vh;
+  height: auto;
 }
 
 .title{
